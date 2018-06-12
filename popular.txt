@@ -1136,7 +1136,6 @@ aspirations
 aspire
 aspirin
 aspirins
-ass
 assailant
 assassin
 assassinate
@@ -1685,8 +1684,6 @@ bass
 bassett
 bassinet
 bassoon
-bastard
-bastards
 baste
 bastille
 bat
@@ -2073,10 +2070,6 @@ bison
 bisque
 bistro
 bit
-bitch
-bitches
-bitching
-bitchy
 bite
 bites
 biting
@@ -2362,10 +2355,6 @@ bonus
 bonuses
 bony
 boo
-boob
-boobies
-boobs
-booby
 booger
 boogey
 boogeyman
@@ -2584,7 +2573,6 @@ breakups
 breakwater
 breast
 breasted
-breasts
 breath
 breathable
 breathe
@@ -2914,7 +2902,6 @@ busting
 bustle
 bustling
 busts
-busty
 busy
 busybody
 but
@@ -6200,12 +6187,7 @@ dibs
 dice
 diced
 dicey
-dick
 dickens
-dickie
-dicking
-dicks
-dicky
 dictate
 dictated
 dictates
@@ -6796,7 +6778,6 @@ doubted
 doubtful
 doubting
 doubts
-douche
 dough
 doughnut
 doughnuts
@@ -8119,10 +8100,6 @@ faded
 fades
 fading
 fads
-fag
-faggot
-faggots
-faggy
 fags
 fail
 failed
@@ -8217,7 +8194,6 @@ farmhouse
 farmland
 farms
 farrow
-fart
 farted
 farther
 farthing
@@ -8333,7 +8309,6 @@ fella
 fellah
 fellahs
 fellas
-fellatio
 feller
 fellers
 felling
@@ -11831,7 +11806,6 @@ intercepted
 intercepting
 interchangeable
 intercom
-intercourse
 interest
 interested
 interesting
@@ -12047,8 +12021,6 @@ jabs
 jack
 jackal
 jackals
-jackass
-jackasses
 jacked
 jackers
 jacket
@@ -16055,8 +16027,6 @@ penguin
 penguins
 penicillin
 peninsula
-penis
-penises
 penitentiary
 pennant
 penne
@@ -17534,8 +17504,6 @@ pushing
 pushover
 pushy
 puss
-pussies
-pussy
 pussycat
 put
 putrid
@@ -18611,8 +18579,6 @@ retaliate
 retaliated
 retaliating
 retaliatory
-retard
-retarded
 retest
 rethink
 rethinking
@@ -24041,8 +24007,6 @@ vacuum
 vacuumed
 vacuuming
 vagabond
-vagina
-vaginas
 vague
 vaguely
 vaguest
